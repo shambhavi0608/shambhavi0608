@@ -1,4 +1,4 @@
-Hi there! I’m Shambhavi Trivedi, a Computer Science undergraduate at SRM University, Lucknow.
+Hi there! I’m Shambhavi Trivedi, a Computer Science undergraduate at SRM University, Ktr , Chennai.
 
 💻 I’m passionate about building real-world solutions through Java development, web technologies, and clean UI/UX design. Whether it’s crafting a strategy game in JavaFX, managing data with MySQL, or designing wireframes in Figma, I love the entire creative process of turning ideas into working products.
 
