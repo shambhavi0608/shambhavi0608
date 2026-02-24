@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Trivedi</h1>
-<h3 align="center">Computer Science Undergraduate | Java Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Computer Science Undergraduate | Java Developer | Full Stack Web Developer(MERN)| UI/UX Enthusiast </h3>
 
 ---
 
