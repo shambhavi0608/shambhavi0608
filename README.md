@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450"/>
 </p>
+<p align="center">
+  <img src="girl-programmer.svg" width="450"/>
+</p>
 </p>
 
 <p align="center">
