@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450"/>
-</p>
-<p align="center">
-  <img src="girl-programmer.svg" width="450"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shambhavi+Trivedi;Computer+Science+Undergraduate;Java+%7C+MERN+Developer;UI%2FUX+Enthusiast;Building+Real+World+Projects+🚀" />
 </p>
 
 <p align="center">
