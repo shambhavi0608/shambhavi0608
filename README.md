@@ -88,7 +88,16 @@ NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • Matplotlib
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shambhavi0608&theme=tokyonight&no-frame=true"/>
+---
+
+## 🦈 Open Source Achievement
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="150"/>
+</p>
+
+<p align="center">
+  🦈 <b>Pull Shark</b> — Opened pull requests that were successfully merged.
 </p>
 
 ---
