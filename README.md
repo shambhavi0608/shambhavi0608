@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shambhavi Trivedi</h1>
-<h3 align="center">Computer Science Undergraduate | Java Developer | Full Stack Web Developer(MERN)| UI/UX Enthusiast </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shambhavi+Trivedi;Computer+Science+Undergraduate;Java+%7C+MERN+Developer;UI%2FUX+Enthusiast;Building+Real+World+Projects+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
 ---
 
@@ -82,16 +87,20 @@ NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • Matplotlib
 
 ## 🏆 GitHub Achievements
 
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shambhavi0608&theme=tokyonight&no-frame=true"/>
+</p>
 
 ---
 
 ### ✨ Dev Quote
 
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
 <p align="center">
-Let’s build something impactful together 🚀
+✨ Let’s build something impactful together 🚀
 </p>
