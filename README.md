@@ -80,17 +80,13 @@ NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • Matplotlib
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi0608&theme=tokyonight"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi0608&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
----
-
-## 🦈 Open Source Achievement
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="150"/>
